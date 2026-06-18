@@ -77,9 +77,9 @@ For collaboration on the full platform, please contact the maintainers via offic
 
 ## 🌐 Related Projects
 
-- XAICEHN STIClaw Autonomous Agent System
-- XAICEHN XAI-MaaS Platform
-- XAICEHN Large Model Lifecycle Management System
+- XAICHEN STIClaw Autonomous Agent System
+- XAICHEN XAI-MaaS Platform
+- XAICHEN Large Model Lifecycle Management System
 
 ---
 
